@@ -2,7 +2,7 @@
 
 Sobre Mim:
 
-Olá! Meu nome é Caua Pereira Rodrigues, e sou um estudante de Sistemas de inforrmação atualmente no segundo semestre da minha jornada acadêmica.
+Olá! Meu nome é Caua Pereira Rodrigues, e sou um estudante de Sistemas de inforrmação atualmente no terceiro semestre da minha jornada acadêmica.
 Este repositório serve como um ponto de entrada central para o trabalho que venho desenvolvendo ao longo dos meus estudos.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
