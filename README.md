@@ -24,6 +24,8 @@ A medida que avanço nos semestres, este portfólio será atualizado com projeto
 
 Projetos:
 
+Multa.py: https://github.com/CauaPero/multa-py
+
 Teatro.java: https://github.com/CauaPero/Teatro-
 
 Lojinha.java: https://github.com/CauaPero/Lojinha
