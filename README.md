@@ -31,3 +31,9 @@ Teatro.java: https://github.com/CauaPero/Teatro-
 Lojinha.java: https://github.com/CauaPero/Lojinha
 
 Mente-em-foco / react + next.js: https://github.com/CauaPero/Site-MenteEmFoco
+
+Sistema de atendimento / Arrvore -> Fila + Pilha: https://github.com/CauaPero/projeto-Estrutura-de-Dados
+
+webservises -> Banco de dados: https://github.com/CauaPero/webservices
+
+api-estagios-springboot: https://github.com/CauaPero/super-projetops2
